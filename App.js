@@ -60,7 +60,7 @@ function passingText() {
 }
 
 function timeModify() {
-  if (timeLeft < 2) {
+  if (timeLeft < 99) {
     timeLeft++;
 
     timeElapsed++;
