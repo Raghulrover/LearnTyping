@@ -126,9 +126,9 @@ function resetValues() {
 }
 
 let Paragraph = [
-  "Push yourself, because no one else is going to do it for you. Failure is the condiment that gives success its flavor The greatest glory in living lies not in never falling, but in rising every time we fall.",
-  "Wake up with determination. Go to bed with satisfaction It's going to be hard, but hard does not mean impossible Learning never exhausts the mind The only way to do great work is to love what you do.",
-  "Life is a beautiful journey that is meant to be embraced to the fullest every day. However, that doesn't mean you always wake up ready to seize the day, and sometimes need a reminder that life is a great gift"
+  "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”",
+  "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking that makes you to perfect stretch.",
+  "Life is a beautiful journey that  wake up ready to seize the day, and sometimes need a remis meant to be embraced to the fullest every day. However, that doesn't mean you alwaysinder that life is a great gift"
 ];
 
 let timer_text = document.querySelector(".curr_time");
